@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christi salus de cœlis, or, Gods defence of his anoynted being a sermon intended for the 5 of Novem. 1647, but preached upon the Lords day after, in the parish church of St. Peter neere St. Pauls wharfe : wherein is layd downe the miraculous preservation that the hand of heaven hath in all ages extended over kings / by John Williams, Master of Arts.</title>
+            <author>Williams, John, Master of Arts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96596</idno>
+            <idno type="STC">Wing W2675A</idno>
+            <idno type="STC">ESTC R42679</idno>
+            <idno type="EEBO-CITATION">38875577</idno>
+            <idno type="OCLC">ocm 38875577</idno>
+            <idno type="VID">152517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2300:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christi salus de cœlis, or, Gods defence of his anoynted being a sermon intended for the 5 of Novem. 1647, but preached upon the Lords day after, in the parish church of St. Peter neere St. Pauls wharfe : wherein is layd downe the miraculous preservation that the hand of heaven hath in all ages extended over kings / by John Williams, Master of Arts.</title>
+                  <author>Williams, John, Master of Arts.</author>
+               </titleStmt>
+               <extent>[4], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the Yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [4].</note>
+                  <note>Imperfect: stained and tightly bound.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XVIII, 50 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152517:1"/>
+            <pb facs="tcp:152517:1"/>
+            <p>
+               <hi>Chriſti Salus de Coelis,</hi> OR Gods defence of his Anoynted.</p>
+            <p>BEING, A SERMON Intended for the 5. of <hi>Novem.</hi> 1647. but Preached upon the Lords day after, in the Pariſh Church of St. <hi>Peter,</hi> neere St. <hi>Pauls</hi> Wharfe.</p>
+            <p>Wherein is layd downe the miraculous pre<g ref="char:EOLhyphen"/>ſervation that the hand of Heaven hath in all ages extended over Kings.</p>
+            <p>By <hi>John Williams,</hi> Maſter of Arts.</p>
+            <p>Now Publiſhed for the confirmation of the Loyall, and for the conſternation of all ſuch as have or ſhall preſume to lift up a hand againſt the Lords A<g ref="char:EOLhyphen"/>noynted.</p>
+            <q>
+               <p>Feare God and honour the King, and meddle not with them that are given to change; for their deſtruction commeth ſuddenly, and who knoweth the ruine of them both.</p>
+               <bibl>Pro. 24. 21.</bibl>
+            </q>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152517:2"/>
+            <pb facs="tcp:152517:2"/>
+            <head>Omnibus Chriſti fidelibus.</head>
+            <head type="sub">To all thoſe that are the faithfull lo<g ref="char:EOLhyphen"/>vers of the Lord's Anoynted.</head>
+            <opener>
+               <salute>Chriſtian Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is no Ambition that I have to ap<g ref="char:EOLhyphen"/>peare in print, which hath put forth this Sermon; only my zeale unto the truth; it is a piece that craves your pardon, and your pa<g ref="char:EOLhyphen"/>tronage: your pardon; becauſe ſo weakely done as being the worke of him who is <hi>minimus Eccleſi<g ref="char:EOLhyphen"/>ae,</hi> the leaſt of thoſe who ſerve at Gods Altar, and the <hi>Primitiae,</hi> the firſt fruits in this kinde of his Labours, your Patronage, becauſe it preſſeth nothing but the truth. You know the Proverb, <hi>obſequium amicos veritas odium parit,</hi> and if ever men were hated, perſecuted impriſoned for the Teſtimony of the truth; (which is the ſole Halig<g ref="char:EOLhyphen"/>nancy againſt them) this age hath done it: it fares with us, as once with that great Apoſtle St. <hi>Paul,</hi> we are become enemies, becauſe we tell the truth; but for my part, I
+<pb facs="tcp:152517:3"/>ſhall ſay as once <hi>Gregory</hi> did,<note place="margin">Grego. Moral.</note> 
+               <hi>In cauſa qua Deum ſer<g ref="char:EOLhyphen"/>vire cupio, homines non formido, I</hi> will not trouble you any longer, <hi>I</hi> onely wiſh to all men the practiſe of the wiſe mans precept, that we would feare God, and honour the King; which two muſt alwaies goe together, if we deſire that (in this Kingdome) Righteousneſse and Peace may Kiſſe each other; which ſhall be the conſtant prayer of him who will for ever reſt,</p>
+            <closer>
+               <signed>Yours in Chriſt Jeſus <hi>John Williams.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata ſic corrige.</head>
+            <p>Pag. 2. l. 21 leave out By. p. 3. l. 21. reade is. p. 4. l. 6. reade wayes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152517:3"/>
+            <head>
+               <hi>Chriſti Salus de Coelis,</hi> OR Gods defence of his Anoynted.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 18. verſ. 50.</bibl>
+                  <p>Great deliverances giveth he unto his King, and ſheweth mercy unto his Anoynted, even to <hi>David,</hi> and to his ſeede for ever. <hi>Our or<g ref="char:EOLhyphen"/>dinary Tranſlation renders it,</hi> great proſpe<g ref="char:EOLhyphen"/>rity giveth he unto his King, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE occaſion, that on Friday laſt did call me to this place, was the Kings injunction; He enjoyned the day by Procla<g ref="char:EOLhyphen"/>mation, and I am ſorry that ſo few obeyed if. I am ſure it is the Apoſtle St. <hi>Pauls</hi> injuncti<g ref="char:EOLhyphen"/>on, <hi>Omnis anima:</hi>
+               <note place="margin">Rom. 13.1.</note> let every ſoule be Subject and how then the Contemners, and Neglecters of the day will anſwer it I know not:
+<pb n="2" facs="tcp:152517:4"/>for my owne part, as I was willing to ſolemnize and obſerve the day, ſo I fitted the text unto it; the day it was, <hi>dies Regis,</hi> the Kings holy day, ſo you call it, on that day did the Lord vouchſafe great proſperity, or deliverance to his King, and the Text it is <hi>confeſsio Regis,</hi> the Kings confeſſion, or Declaration (of that mercy) unto God before the people; ſo that you ſee the Argument of the Text, it is <hi>gratiarum actio,</hi> giving of thanks, delivered fro<g ref="char:cmbAbbrStroke">̄</g> his commo<g ref="char:cmbAbbrStroke">̄</g> nature confeſſion: for what indeed are al our praiſes but the acknowledg<g ref="char:EOLhyphen"/>ment of Gods mercies? great Deliverances giveth he &amp;c. But not to hold you any longer in the Preface, I come unto the Text it ſelfe, and this naturally di<g ref="char:EOLhyphen"/>geſts it ſelfe into two generall parts:
+<list>
+                  <item>1. The <hi>Theſis.</hi>
+                  </item>
+                  <item>2. The <hi>Hypotheſis.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The Theſis, and this comprehends Gods care of Kings.</p>
+            <p>
+               <hi>In genere,</hi> great deliverances giveth he unto his King.</p>
+            <p n="2">2. By the Hypotheſis, and this comprehends Gods care of David, <hi>in Individuo,</hi> of him in ſpeciall above the reſt, and ſheweth loveing kindneſſe, or mercy unto David.</p>
+            <p>I begin with the Firſt, the Theſis, and therein I obſerve 2. parts, Firſt the <hi>quis,</hi> the Perſon who it is that gives deliverance, and that is the Lord, implyed in the Relative, he but collected from the 46. verſe of this Pſa. <hi>Let the Lord live and bleſſed be my ſtrength and the God of my ſalvation be exalted.</hi> Secondly, the <hi>cui,</hi> the object of this mercy, the perſon to whom the Lord vouchſafes it, and that is <hi>Regi,</hi> to the King,
+<pb n="3" facs="tcp:152517:4"/>and thus you have the modell of the whole Diſ<g ref="char:EOLhyphen"/>courſe. And firſt, I ſhall begin with the firſt, the <hi>quis,</hi> the perſon, who it is that gives deliverance, the Lord: And this is a word that implies a power to performe it: for as <hi>Tertullian</hi> very well obſerves,<note place="margin">Tertul. Cont. Hermo.</note> 
+               <hi>Deus eſt nomen ſubſtantiae ſed Dominus eſt nomen poteſtatis.</hi> God ſaith he, is a name of eſſence, of ſubſtance, and implies the Divinity of the Creator, but the word Lord is a name of power and ſoveraignty implying the Dominion that he hath over all his creatures, and this ſayes <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> you may obſerve in the 1 of Gen. 1. and 2. verſes, before the Creation the Prophet <hi>Moſes</hi> does call the Creator God, <hi>poſt creatas vero creaturas Domi<g ref="char:EOLhyphen"/>num ſe indicat;</hi> In the beginning God created the heaven and the earth, and the earth was without forme and voyd, &amp;c. but as ſoone as ever things were crea<g ref="char:EOLhyphen"/>ted, then he calls him Lord, <hi>&amp; ſpiritus Domini,</hi> ſaies <hi>Moſes</hi> in the ſecond verſe, <hi>Incubabat ſuper facies aqua<g ref="char:EOLhyphen"/>rum,</hi> and the ſpirit of the Lord moved upon the face of the waters: indeed that which wee tranſlate Lord, in the Originall <hi>Adon</hi> from the Primitive <hi>Eden: Ba<g ref="char:EOLhyphen"/>ſis quia Deus eſt fundamentum &amp; ſuſtentator omnium creaturarum,</hi> he is the <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſis</hi> or Foundation whereupon they ſtand: and therefore the Prophet <hi>David</hi> in the 2 verſe of this Pſalme, calls God his ſtrength, and his rock, and his defence, his Saviour, his God, and his might, his buckler, the home of his ſalvation, and his refuge: It is true if God does not give proſperity, deliverance, ſalvation, (for ſo St. <hi>Ierome</hi> reades the Text) <hi>Magnificans ſalutes Regis;</hi> It is he that giveth great ſalvation to his King: there is none can doe it, ſo ſayes God himſelfe,<note place="margin">Eſay. 43.11.</note> 
+               <hi>Ego ſum &amp; praeter me</hi> (St. <hi>Hie<g ref="char:EOLhyphen"/>rome</hi>
+               <pb n="4" facs="tcp:152517:5"/>renders it, <hi>abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> me</hi>) <hi>non eſt ſervator,</hi> I even I, am the Lord, and beſides me there is no Saviour, and this is the reaſon why the Prophet gives God ſo many ti<g ref="char:EOLhyphen"/>tles in the 1 verſe of this Pſalme, to ſhew that he is the only and the abſolute Saviour, and the Devill with all his inſtruments hath not ſo many to hurt, as God hath many waies to helpe his King; nay if God be pleaſed to helpe, to give ſalvation to his King, there is none can hinder it; wee neede not feare the worſt ad<g ref="char:EOLhyphen"/>verſary that happeneth, and this is manifeſtly proved from that of the Prophet <hi>Iſaiah,</hi>
+               <note place="margin">Eſay, 43.1.</note> And now thus ſaith the Lord that made thee, O <hi>Jacob,</hi> and formed thee, O <hi>Iſrael,</hi> feare not becauſe I have redeemed thee, and called thee by my name, thou art mine when thou paſſeſt through the waters, I will be with thee and through the flouds that they doe not overflow thee: and thus was God with us in the yeere 1588, when he did ſo wonderfully preſerve us, and diſperſe the Ar<g ref="char:EOLhyphen"/>mies of the Aliens, that great Armado of the Spany<g ref="char:EOLhyphen"/>ards that did delight in bloud; nay ſayes God in the next words, when thou paſſeſt through the fire thou ſhalt not be burnt, the flame ſhall not kindle upon thee, and thus was the Lord with us, this day, this pro<g ref="char:EOLhyphen"/>miſe was made good unto us; for notwithſtanding that a fire was provided; yea and ſuch an one as even hell (for the end intended) could not invent a worſe, a fire wherein the King and Princes of the people ſhould all have beene utterly deſtroyed, and yet though it was even ready to be kindled, the Lord would not ſuffer it to breake forth, and take hold upon us, the ſnare was broken, and wee were delivered: O that men would therefore praiſe the Lord for his goodneſſe, and de<g ref="char:EOLhyphen"/>clare
+<pb n="5" facs="tcp:152517:5"/>the wonder that he hath done for us the chil<g ref="char:EOLhyphen"/>dren of men: Oh that wee would all doe as the Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> heere in the Text, thankfully and pub<g ref="char:EOLhyphen"/>lickly acknowledge that this day did God give great Deliverances to his King, which very fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly brings me to my 2 particular, and the <hi>objectum miſericordiae,</hi> the object of Gods mercy, the perſon to whom he doth vouchſafe deliverance, and that is <hi>Regi,</hi> to his King.</p>
+            <p>
+               <hi>Homines &amp; jumenta ſervabit Deus,</hi>
+               <note place="margin">Pſal. 36.6.</note> thou Lord doeſt ſave both man and beaſt, ſo excellent is thy mercy ſaies this Prophet: The goodneſſe of God is not concentred in himſelfe, but he does extend it even to all the workes of his hands, even the beaſts are parta<g ref="char:EOLhyphen"/>kers of that ſaving virtue that is in God, he opens his hand and fills all things living with his goodneſſe;<note place="margin">Pſ. 104.28.</note> yea the earth is full of the goodneſſe of the Lord, and ſo is the broad and wide ſea alſo; but what doth God take care for beaſts? Or may wee not rather reaſon as the Apoſtle did; <hi>Nunquid de bobus cura eſt Deo?</hi> does God take care for Oxen? <hi>an non potius propter nos hae,</hi> or are not theſe things rather written for us? yea for us no doubt are they written:<note place="margin">1 Cor. 9 9.</note> if God take care for beaſts much more for men, yea for ſome men moſt eſ<g ref="char:EOLhyphen"/>pecially above the reſt, and that is for Kings, and therefore he is called the wholeſome defence of his Anoynted;<note place="margin">Pſal 28.9.</note> nay that the Prophet might ſhew the ſpeciall care that God doth take in this particular, he is ſaid to be <hi>Mirabilis in Regibus terrae;</hi> wonder<g ref="char:EOLhyphen"/>full among the Kings of the earth. I neede not ſtand to inſtance in particulars, and ſhew you how wonderfull God hath beene in delivering <hi>Moſes</hi> from a Rebellious <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> in preſer<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:152517:6"/>
+               <hi>David</hi> from <hi>Saul</hi> and <hi>Abſolom<g ref="char:punc">▪</g> Hezechia</hi> from the Philiſtines: our owne Chronicles doe record many of Gods mercies; in particular this day above all the reſt did God deliver King <hi>Iames</hi> (of happy memory) and in him all us from the damnable and traiterous in<g ref="char:EOLhyphen"/>vention of a powder plot; And now if you aske me the reaſon why God gives ſuch great and eminent de<g ref="char:EOLhyphen"/>liverance and proſperity to his King? I anſwer for theſe three reaſons. The firſt is in my Text, <hi>quia Rex ſuus,</hi> becauſe he is his King, God is the King, and the earth may be glad thereof,<note place="margin">Pſal 47.2.</note> and they <hi>viz.</hi> the Kings of the earth are his Miniſters;<note place="margin">Rom. 13.4.</note> they are Gods ſhepheards; ſo ſpeakes God to <hi>Cyrus,</hi>
+               <note place="margin">Eſay. 44.28.</note> they are his Embaſſadors, his Vice-royes, his Lievtenants; now the honour of the Embaſſadour is the honour of him that ſends him, and the diſgrace and diſrepute that is caſt upon the Vice<g ref="char:EOLhyphen"/>roy does reflect upon the King; and therefore you ſhall reade that when the ſervants that King <hi>David</hi> ſent unto the King of <hi>Ammon</hi> were abuſed, the King did take the injury as done unto himſelfe and revenged the infamy:<note place="margin">2 Sam 10.</note> If an earthly King doe thus in vindica<g ref="char:EOLhyphen"/>tion of his ſervants, how much more ſhall the King of Heaven doe it unto his? for by him Kings raigne, Prov. 8.5. and this is the firſt reaſon, why he gives ſuch great proſperity, or ſalvation, or deliverance to his King.</p>
+            <p>Secondly, as God does give proſperity, becauſe they are his Miniſters, ſo likewiſe in the next place, becauſe there is an <hi>Abaddon</hi> a Prince of darkeneſſe; <hi>Diabolus qui malis dominatur,</hi> the Devill who ruleth and reigneth in the wicked,<note place="margin">Apoca 9.11.</note> and he ſeekes by all means to deſtroy them; the Devill knowes full well that if
+<pb n="7" facs="tcp:152517:6"/>once a governement be wanting, wee ſhall be ſure to fall under his Dominion; all the vilianies and iniqui<g ref="char:EOLhyphen"/>ties in Iſrael are imputed unto this, <hi>non erat Rex,</hi> there was no King in thoſe dayes in Iſrael,<note place="margin">Judg. 19.21.</note> where there is no Government, there there is no order, and where there is no order, <hi>ibi ruinae oſtium patet,</hi> the doore is open to ruine and diſtruction: and from hence ſaith a Father, <hi>malu<g ref="char:cmbAbbrStroke">̄</g> qulde<g ref="char:cmbAbbrStroke">̄</g> eſt pesſimum ubi, eſt nullus principatus:</hi> It is a paſſing evill where there is no Government: take away your Captaine from the Souldiers, and there will be nothing but confuſion, take away your Pilot and the Ship muſt ſurely miſcarry, take away your Shepheard and your flock will ſuddainely be ſcattered, take away your peoples Government and they muſt of neceſſity be brought to ruine; Government, is the very fence that doth preſerve all other bleſſings to us; if this fence be broken downe, nothing but deſtruction and deſolation will enſue, and therefore wee had neede to pray <hi>ut det Deus proſperitatem Regi,</hi> that God would give protection to his King, and that is the ſecond rea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Thirdly, and laſtly, God gives ſalvation and proſ<g ref="char:EOLhyphen"/>perity to his King, that wee might live the more proſ<g ref="char:EOLhyphen"/>perouſly under him; the happineſſe of the Kingdome being emb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rqued in the welfare of the King, and this the very Etimon of the word may tell you, for what is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Rex,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the very foundation whereupon the people ſtand, and in this reſpect you have them often called Gods and Saviours of the peo<g ref="char:EOLhyphen"/>ple.<note place="margin">Pſal. 82.1.</note> I neede not ſtand to ſhew you how,<note place="margin">Judg. 3.9.</note> and in what nature they are called Gods, it is ſufficient for us that the Lord himſelfe does call them ſo, <hi>Deus Dii eſtis,</hi> I
+<pb n="8" facs="tcp:152517:7"/>have ſaid yee are Gods,<note place="margin">Pſal. 82, 1.</note> and yet to give you a more full and ample ſatisfaction, obſerve that they are cal<g ref="char:EOLhyphen"/>led Gods three manner of waies: Firſt, by Analogy: Secondly, by Deputation: Thirdly, by Participa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Firſt, by Analogy, for as God hath his ſeate of judgement in Heaven; ſo theſe have their Tribunalls and Courts of judicature heere below,<note place="margin">Theod.</note> 
+               <hi>tanquam in hoc Deum imitantes,</hi>
+               <note place="margin">Pſal. 81.</note> ſayes <hi>Theodor.</hi> as it were imitating the Lord in this: and their authority, though it be not tranſ<g ref="char:EOLhyphen"/>cendent, yet it is without controle of any, ſave of him who is <hi>Rex Regum,</hi> the King of Kings.</p>
+            <p>Secondly,<note place="margin">2 Chro. 19.8.</note> they be Gods by deputation, yee judge not for men, but for the Lord, ſayes <hi>Iehoſophat,</hi> the judgement is Gods, ſaies <hi>Moſes,</hi> Magiſtrates they are his mouth to pronounce, and his hands to execute u<g ref="char:EOLhyphen"/>pon the people; they are fingers of that great hand, as I may ſo ſpeake, that ruleth the world. God hath two hands, by the one he governeth in the Common<g ref="char:EOLhyphen"/>wealth, by the other in the Church; by the one he de<g ref="char:EOLhyphen"/>riveth and holds forth good unto the body, by the o<g ref="char:EOLhyphen"/>ther to the ſoule; by the Magiſtrate he conveighs good unto the body, by the Miniſter, as the outward means he conveighs grace unto the ſoule; by ſome Magi<g ref="char:EOLhyphen"/>ſtrates he giveth peace, by ſome wealth, by ſome or<g ref="char:EOLhyphen"/>der, by ſome juſtice, by ſome mercy, and thats the reaſon why the Apoſtles doe ſo earneſtly preſſe and urge our prayers for them,<note place="margin">1 Tim 2<g ref="char:punc">▪</g> 1.2.3.4.</note> that wee may live a quiet and peaceable life in all godlineſſe and honeſty.</p>
+            <p>Thirdly, and laſtly, they be Gods by participation, God hath communicated ſome ſparkes of his owne Majeſty and glory to them, <hi>participando ſunt Dii,</hi> as
+<pb n="9" facs="tcp:152517:7"/>St. <hi>Aug.</hi> as the ſtarres participate their light from the Sunne the <hi>primum lucidum;</hi> ſo theſe their authority from the ſupreame Magiſtracy, which is God him<g ref="char:EOLhyphen"/>ſelfe, and thats the third and laſt reaſon why God does gives ſuch great proſperity and deliverance unto them.</p>
+            <p>Well then beloved,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> ſeeing God is ſo wonderfull among the Kings of the Earth, ſeeing he extends ſuch a hand of providence and protection over them: Let us carefully, nay conſcionably be ware that wee doe not lift up our hands againſt him; if it be unlawfull for us to ſpeake againſt him,<note place="margin">Exod. 22.28.</note> thou ſhalt not raile upon the Judges, nor ſpeak evill of the ruler of thy people, ſaies <hi>Moſes,</hi> how much more unlawfull is it to draw the ſword, &amp; to rebell againſt him? certaine I am, it cleare<g ref="char:EOLhyphen"/>ly contradicts that precept of the Lord <hi>Nolite tangere</hi> touch not mine Anoynted,<note place="margin">Pſal. 105.15.</note> and doe my Prophets no harme; If is not as that Reverend Father of our Church, Biſhop <hi>Andrewes</hi> well obſerves, <hi>ne tangete,</hi> touch not, for that perhaps wee cannot doe in reſpect of that guard that is about him, but it is <hi>nolite tangere,</hi> have not the leaſt thought or inclination of the will towards it; for if wee doe but ſpeake, the fowles of the ayre will carry the voyce,<note place="margin">Eccleſ. 10.19.</note> and that which hath wings will declare the matter, and if wee thinke ill of him, though wee keepe it never ſo ſecret even in the dept of our heart; why yet one time of other God will bring it out, he will ſhoote at us ſuddainely, as the Pſalmiſt ſpeakes; yea our owne tongues ſhall make us fall,<note place="margin">Pſal. 64.8.9.10.11.</note> inſomuch that all men ſhall ſay this hath God done.</p>
+            <p>
+               <pb n="10" facs="tcp:152517:8"/>
+Rebellion of all ſinnes is the moſt unnaturall, for what can be more unnaturall then for the childe to re<g ref="char:EOLhyphen"/>bell againſt the Father, the Wife againſt the Husband, the Servant againſt the Maſter? and if theſe be ſo un<g ref="char:EOLhyphen"/>naturall, much more then is it for the Subject to re<g ref="char:EOLhyphen"/>bell againſt his Soveraige.</p>
+            <p>It was well ſaid of <hi>Samuel,</hi> hath the Lord as great pleaſure in burnt offerings and ſacrifices, as when the voyce of the Lord is obeyed? Behold, to obey is better then ſacrifice, and to hearken better then the fat of Rams; but rebellion is as the ſin of witchcraft, of all ſins theres none ſo odious unto God as this; I could inſtance to you in particulars, and ſhew that there was never any treaſon or rebellion proſpered: the ſeditious Iſraelites were deſtroyed ſometimes by fire from heaven, ſometimes with fiery Serpents, ſome<g ref="char:EOLhyphen"/>times by the earth, for the earth opened her mouth and ſwallowed them up quick into hell; ſeditious <hi>Mirians</hi> was ſtricken with a leproſie; ſeditious <hi>Abſo<g ref="char:EOLhyphen"/>lom</hi> was hanged by the head in an oake, as one ſpewed out of Heaven, and vomited out of the earth. <hi>Achi<g ref="char:EOLhyphen"/>tophel</hi> for want of a hangman (a convenient ſervitor for ſuch a Rebell) hanged himſelfe; did ever <hi>Sheba</hi> blow a trumpet of ſedition, but his blood muſt make a ſatisfaction? Had <hi>Zimri</hi> peace which ſlew his Ma<g ref="char:EOLhyphen"/>ſter? What became of <hi>Shemei</hi> that reviled the A<g ref="char:EOLhyphen"/>noynt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of the Lord, though <hi>David</hi> ſpared his life, yet <hi>Solomon</hi> his Sonne did bring his hoary head unto the grave in blood?<note place="margin">1 King. 2.9.</note>
+            </p>
+            <p>Nay to inſtance heere at home, this dayes experi<g ref="char:EOLhyphen"/>ence joyfully does tell us, that the end of our Popiſh
+<pb n="11" facs="tcp:152517:8"/>Traytours heere was blood; the pit that they digged for others, they did fall into themſelves, ſo ſtrangely was their foote taken; and indeede can it poſſibly be otherwiſe, but the vengeance of the Lord ſhould fol<g ref="char:EOLhyphen"/>low this ſinne? for it is a ſinne that is contrary to God; in every notion he is the God of grace, the God of peace, the God of order; but this is a ſinne that is oppoſite <hi>ex Diametro,</hi> in every notion it reſiſts grace, it murthers peace, it deſtroyes order; if therefore we will not be guilty of this horrid ſinne; let us learne as the Apoſtle enjoynes to ſubmit unto the higher po<g ref="char:EOLhyphen"/>wers, for wee muſt ſuffer the Princes will to be done <hi>aut a nobis, aut de nobis,</hi> either of us, or on us; of us when he commands for truth, on us when he com<g ref="char:EOLhyphen"/>mands againſt truth; either wee muſt be Patients or Agents, Agents when he is good and godly, Patients when he is tyrannous and wicked; if wee reſiſt, our end will be damnation, either temporall in this life; for the wrath of a King is as the roaring of a Lyon;<note place="margin">Prov. 2 0 2.</note> he that provoketh him to anger, ſinnes againſt his owne ſoule, or elſe eternall in the life which is to come; and ſo much ſhall ſerve for the firſt Uſe, to in<g ref="char:EOLhyphen"/>vite us carefully and conſcionably to beware that wee doe not preſume to lift up our hands againſt the Lords Anoynted, from the firſt reaſon in the Text, <hi>quia Rex ſuus,</hi> becauſe he is his King.</p>
+            <p>Secondly,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> as this may ſerve to preſerve us in obe<g ref="char:EOLhyphen"/>dience, from the firſt reaſon, becauſe the Ordinance is Gods, and the King is <hi>Rex ſuus,</hi> his King, ſo in the ſecond place, if wee will continue Loyall, it ſhould
+<pb n="12" facs="tcp:152517:9"/>teach us to avoyde the company of thoſe that are gi<g ref="char:EOLhyphen"/>ven to this ſinne, and that from the ſecond reaſon, be<g ref="char:EOLhyphen"/>cauſe they are inſpired by him, who is the <hi>Abaddon,</hi> that deſtroyer of all order; indeede the Devill was the firſt Rebell in the world, the Ringleader and Cap<g ref="char:EOLhyphen"/>taine of ſedition, he firſt rebelled againſt the Lord, and ever ſince hath endeavoured to induce the world into it; if therefore, if wee will not be led by him, nor runne into the ſame exceſſe of treaſon and rebel<g ref="char:EOLhyphen"/>lion with him; let the counſell of the wiſe man be imprinted in our ſoules, fear God and honour the King, and meddle not with them that are given to change: and ſo much briefely for the ſecond Uſe.</p>
+            <p>Thirdly,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> does God give proſperity to Kings, that wee might live the more proſperouſly under them? Why then this ſhould teach us: Firſt, thankfullneſſe: Secondly, diligence in prayer: Firſt, it ſhould teach us to be thankfull, <hi>novis omnino eſt indignus beneficiis qui acceptis ingratus reddit,</hi> he is altogether unworthy of new bleſſings, that returnes himſelfe unmindefull of, and unthankfull for thoſe he hath received; nay, he is altogether unworthy of the leaſt bleſſing, that is unthankfull for the greateſt.<note place="margin">Theſ. 1.5.18.</note> It is the Apoſtles uni<g ref="char:EOLhyphen"/>verſall Propoſition, <hi>in omnibus gratias agite,</hi> in e<g ref="char:EOLhyphen"/>very thing, give thankes, and if in every thing, then ſure in ſo great a thing as this, without which all other would be nothing to us. Secondly, as it ſhould teach us to be thankfull, ſo to be diligent in prayer, that God would continue this hand of preſervation and pro<g ref="char:EOLhyphen"/>tection to them: It is want of prayer that does cauſe
+<pb n="13" facs="tcp:152517:9"/>a want of bleſſings. Wee are too too frequent in our healthing to him; but too too backward in our pray<g ref="char:EOLhyphen"/>ing for him: and this does ſeeme to me to be a ſtrong convincing argument that wee are ſtupid and ſence<g ref="char:EOLhyphen"/>leſſe of the great bleſſing of a King preſerved in ſafe<g ref="char:EOLhyphen"/>ty.</p>
+            <p>I will not ſtand to parrallell our caſe with that of Iſraels, when there was no King: I am ſure it is bad enough; if therefore wee will be delivered from the miſeries wee ſuffer, and be reſtored to the mercies we have loſt; let us pray, and pray earneſtly, and pray conſtantly, that as God did deliver <hi>David</hi> his Servant, and King <hi>Iames</hi> his ſervant; ſo he would now deli<g ref="char:EOLhyphen"/>ver King <hi>Charles</hi> his ſervant, not only <hi>de pulvere ma<g ref="char:EOLhyphen"/>ligno,</hi>
+               <note place="margin">Pſ. 144.10.</note> from a powder plot, but <hi>de gladio maligno,</hi> from the hurtfull ſword that is now amongſt us, that ſo the Mountaine may bring peace, and the little Hills righ<g ref="char:EOLhyphen"/>teouſneſſe, unto the people; which God of his mer<g ref="char:EOLhyphen"/>cy grant for his ſake, in whome alone he is well plea<g ref="char:EOLhyphen"/>ſed, and to whom with the Holy Spirit, three Per<g ref="char:EOLhyphen"/>ſons, but one only wiſe immortall God, be all glory, and honour, now, and for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
